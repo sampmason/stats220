@@ -12,5 +12,6 @@
 - Projects
 - Lectures
 
+My website can be found [here](https://sampmason.github.io/stats220/)
 
 
